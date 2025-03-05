@@ -1,3 +1,7 @@
-function skills memeber(){
-  console.log('I am a member');
-}
+function skillsMember() {
+    var member = {
+        name: "John",
+        age: 30,
+        skills: ["HTML", "CSS", "JS"],
+        details: {
+            id: 1
